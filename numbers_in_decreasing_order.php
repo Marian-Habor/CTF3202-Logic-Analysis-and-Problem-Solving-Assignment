@@ -1,6 +1,4 @@
 <?php
-// Marian Catalin Habor HE16732
-// The code is for Mr. Johnnes to review and grade.
 // PHP program to solve question number 2.
 // The given Problem "2.	Solve the above exercise [1], such that the remaining numbers are in decreasing order"
 // k elements in increasing order
